@@ -1,0 +1,22 @@
+{
+  "name": "strataair",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "jakegliddon <jakegliddon91:outlook.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jakegliddon/strata_air",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.5",
+    "angular-route": "^1.6.5"
+  }
+}
