@@ -1,0 +1,19 @@
+{
+  "name": "strataair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakegliddon/strata_air.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakegliddon/strata_air/issues"
+  },
+  "homepage": "https://github.com/jakegliddon/strata_air#readme"
+}
