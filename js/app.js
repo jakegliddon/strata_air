@@ -1,6 +1,6 @@
-angular.module('TodoApp', ['ngRoute', 'RouteControllers']);
+angular.module('StrataApp', ['ngRoute', 'RouteControllers']);
  
-angular.module('TodoApp').config(function($locationProvider, $routeProvider) {
+angular.module('StrataApp').config(function($locationProvider, $routeProvider) {
     $locationProvider.html5Mode(true);  // Enable href routing without hashes
  
     $routeProvider.when('/', {
